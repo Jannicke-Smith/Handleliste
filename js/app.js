@@ -1,0 +1,1 @@
+console.log('min føste console kommentar');
