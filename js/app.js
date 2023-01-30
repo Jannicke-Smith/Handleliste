@@ -92,3 +92,21 @@ function calculateRectangle(areal) {
 calculateRectangle(15*20);
 
 
+console.clear();
+
+console.log(document)
+
+const section1Element = document.querySelector('section');
+console.log(section1Element);
+
+const headerElement = document.querySelector('header');
+console.log(headerElement);
+
+const pElement = document.querySelector('p');
+console.log(pElement);
+
+const p3Element = document.querySelector('.p-3');
+console.log(p3Element);
+
+const sectionH1Element = document.querySelector('.h1')
+
